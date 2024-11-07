@@ -11,7 +11,7 @@
 - <b>Python</b>
   - [Perform customer segmentation using clustering techniques.](https://github.com/packagedata/Customer-Segmentation-using-K-Means-Clustering-python---Data-Analyst-.git)
 - <b>Tableau</b>
-  - [Financial performance dashboard in Tableau (Excel and Tableau)](https://github.com/packagedata/financial-performance-dashboard-in-Tableau-Data-Analyst.git)
+  - [Financial performance dashboard in Tableau (Excel, Python and Tableau)](https://github.com/packagedata/financial-performance-dashboard-in-Tableau-Data-Analyst.git)
 - <b>PowerBI</b>
   - [Power BI dashboard tracking key metrics of a supply chain(SQL and Power BI)](https://github.com/packagedata/Power-BI-dashboard-tracking-key-metrics-of-a-supply-chain-Power-BI-Project.git)
   - [BI analyst - Customer Segmentation for an E-commerce Business](https://github.com/packagedata/Customer-Segmentation-for-an-E-commerce-Business-BI-Analyst.git)
