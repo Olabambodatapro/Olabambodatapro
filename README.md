@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bambo! <br/><a href="https://github.com/olabambodatapro">Data Analyst</a>, <a href="https://github.com/olabambodatapro">Business Analyst</a>, <a href="https://github.com/packagedata">Business Intelligence Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a></h1>, 
+<h1>Hi, I'm Bambo! <br/><a href="https://github.com/olabambodatapro">Data Analyst</a>, <a href="https://github.com/olabambodatapro">Business Analyst</a>, <a href="https://github.com/packagedata">Business Intelligence Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a></h1>
 <h1>My <a href="https://olabambodatapro.wixsite.com/bambo-oladipo">Website</a></h1>
 
 <h2>👨‍💻 Data, Business, and Business Intelligence Analytics:</h2>
