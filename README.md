@@ -11,6 +11,7 @@
   - [Amazon E-commerce sales analysis](https://github.com/packagedata/Amazon-E-commerce-sales-analysis--SQL-Data-Analyst.git)
 - <b>Python</b>
   - [Perform customer segmentation using clustering techniques.](https://github.com/packagedata/Customer-Segmentation-using-K-Means-Clustering-python---Data-Analyst-.git)
+  - [Data cleaning project performed on Python for Excel](https://github.com/Olabambodatapro/Data_Cleaning_using_Python_on_Excel.git)
 - <b>Tableau</b>
   - [Financial performance dashboard in Tableau (Excel, Python and Tableau)](https://github.com/packagedata/financial-performance-dashboard-in-Tableau-Data-Analyst.git)
 - <b>PowerBI</b>
